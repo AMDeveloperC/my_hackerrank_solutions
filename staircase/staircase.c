@@ -1,6 +1,4 @@
-/*
- * This is my solution to the problem available here: https://www.hackerrank.com/challenges/staircase
- */
+// This is my solution to the problem available here: https://www.hackerrank.com/challenges/staircase
 
 # include <stdio.h>
 
