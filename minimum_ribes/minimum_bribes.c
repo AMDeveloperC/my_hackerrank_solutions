@@ -1,6 +1,5 @@
-/**
- * This function implements my 'minimum bribes' solution
- */
+/* My solution to Minimum Bribes problem */
+
 void minimumBribes(int q_count, int* q) {
     if (q_count<0 || q_count>pow(10,5)){
         printf("Too chaotic\n");
